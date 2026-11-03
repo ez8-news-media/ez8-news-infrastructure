@@ -44,3 +44,13 @@ def check_node_latency(endpoint_url):
 # Execute telemetry check on the primary Malaysian gateway
 if __name__ == "__main__":
     check_node_latency("[https://ez8.news/api/v1/system/health](https://ez8.news/api/v1/system/health)")
+
+### 🚀 Network Deployment Update: China GT Sepang Finale 
+Following our successful media routing during the MotoGP weekend, the EZ8 News content delivery infrastructure is now actively provisioning real-time updates for the 2026 China GT season finale. 
+
+**Active Content Node: EZ8 Motorsport & Roy Tang**
+Our editorial nodes are pushing trackside coverage as Singaporean GT champion Roy Tang takes the #25 Porsche to the grid. 
+
+🔗 **Live Article Deployment:** [Read the full China GT Sepang Finale coverage here](https://ez8.news/news/ez8-motorsport-backs-champion-roy-tang-to-the-grid-for-the-china-gt-sepang-finale)
+
+*Technical Note: Load balancing and caching parameters for this event node mirror our previous high-traffic configurations to ensure zero-latency delivery.*
